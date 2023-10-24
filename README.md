@@ -1,5 +1,5 @@
 # Covid-19-analysis
-The "Covid-19-Analysis" repository is a comprehensive project that focuses on analyzing the spread of COVID-19 in India. It involves various components, including creating an interactive and dynamic dashboard using Tableau, conducting data exploration to discover insights, and handling missing values and outliers using Python libraries. Let's break down these components in more detail:
+The "Covid-19-Analysis" repository is a comprehensive project that focuses on analyzing the spread of COVID-19. It involves various components, including creating an interactive and dynamic dashboard using Tableau, conducting data exploration to discover insights, and handling missing values and outliers using Python libraries. Let's break down these components in more detail:
 
 # 1. Project Overview:
 
